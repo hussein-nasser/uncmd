@@ -1,0 +1,6 @@
+c:\users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Debug\uncmd.exe.config
+c:\users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Debug\uncmd.exe
+c:\users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Debug\uncmd.pdb
+c:\users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\obj\Debug\uncmd.exe
+c:\users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\obj\Debug\uncmd.pdb
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\obj\Debug\uncmd.csprojResolveAssemblyReference.cache

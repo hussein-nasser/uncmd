@@ -1,0 +1,8 @@
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Release\uncmd.exe.config
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Release\uncmd.exe
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Release\uncmd.pdb
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Release\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\bin\Release\Newtonsoft.Json.dll
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\obj\Release\uncmd.exe
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\obj\Release\uncmd.pdb
+C:\Users\husa8228\documents\visual studio 2017\Projects\uncmd\uncmd\obj\Release\uncmd.csprojResolveAssemblyReference.cache

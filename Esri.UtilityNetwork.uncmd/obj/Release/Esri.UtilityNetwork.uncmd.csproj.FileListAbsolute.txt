@@ -1,0 +1,10 @@
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\uncmd.exe.config
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\uncmd.exe
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\uncmd.pdb
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\Newtonsoft.Json.dll
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\bin\Release\Newtonsoft.Json.xml
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\obj\Release\Esri.UtilityNetwork.uncmd.csprojResolveAssemblyReference.cache
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\obj\Release\uncmd.exe
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.uncmd\obj\Release\uncmd.pdb

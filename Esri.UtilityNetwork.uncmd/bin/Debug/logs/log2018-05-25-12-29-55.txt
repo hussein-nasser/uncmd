@@ -1,0 +1,2 @@
+[2018-05-25 12:29:59] Connecting to service AllStar_SQLServer_Daily
+[2018-05-25 12:30:02] Validate Network Topology 

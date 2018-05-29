@@ -1,0 +1,2 @@
+uncmd.exe /url:utilitynetwork.esri.com/portal /user:unadmin /pass:unadmin.106 /s:NapervilleElectric_Oracle_Daily /v /e:{"xmin":1034298.770580286,"ymin":1871150.45390869863,"xmax":1035343.74091765482,"ymax":1871932.05773827527,"spatialReference":{"wkid":102671,"latestWkid":3435}}
+pause

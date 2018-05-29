@@ -1,0 +1,13 @@
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Newtonsoft.Json.dll
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Newtonsoft.Json.xml
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\obj\Release\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\obj\Release\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\husa8228\Source\Repos\unetl3\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\obj\Release\Esri.UtilityNetwork.RestSDK.csprojResolveAssemblyReference.cache
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Newtonsoft.Json.dll
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\bin\Release\Newtonsoft.Json.xml
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\obj\Release\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\husa8228\Source\Repos\unetl8\Esri.UtilityNetwork.ETLLibrary\Esri.UtilityNetwork.RestSDK\obj\Release\Esri.UtilityNetwork.RestSDK.pdb
