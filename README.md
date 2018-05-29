@@ -18,4 +18,4 @@ Enable logging at any time by adding /l this will write to a folder "logs" under
 
 > **uncmd.exe** /url:utilitynetwork.esri.com/portal /user:unadmin /pass:unadmin /s:AllStar_Postgres /v /l
 
-Download tool here  
+Download tool here  https://github.com/hussein-nasser/uncmd/releases
