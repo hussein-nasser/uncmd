@@ -1,0 +1,2 @@
+Unexpected error    at Esri.UtilityNetwork.RestSDK.UNWorkspace.GetServices(String portalurl, String username, String password) in C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\UNWorkspace.cs:line 139
+[2018-08-01 09:05:15] [Error] Cannot generate token, invalid username or password.

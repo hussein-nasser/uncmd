@@ -1,0 +1,121 @@
+[2018-08-01 09:05:30] Connecting to service AllStar_SQLServer
+[2018-08-01 09:05:37] Validate Network Topology 
+[2018-08-01 09:05:43] [Done] Validate Network Topology
+[2018-08-01 09:05:45] Update Subnetwork lowv1 In Tier Low Voltage Domain ElectricDistribution
+[2018-08-01 09:05:45] [Failed] Update Subnetwork lowv1 In Tier Low Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:45] Update Subnetwork lowv2 In Tier Low Voltage Domain ElectricDistribution
+[2018-08-01 09:05:46] [Failed] Update Subnetwork lowv2 In Tier Low Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:46] Update Subnetwork LV In Tier Low Voltage Domain ElectricDistribution
+[2018-08-01 09:05:46] [Failed] Update Subnetwork LV In Tier Low Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:46] Update Subnetwork lvcircuit1 In Tier Low Voltage Domain ElectricDistribution
+[2018-08-01 09:05:47] [Failed] Update Subnetwork lvcircuit1 In Tier Low Voltage Domain ElectricDistribution[{"moment":1533139547530,"success":false,"error":{"extendedCode":-2147208602,"message":"Invalid subnetwork connectivity, multiple sources from different tiers found. [[lvcircuit1], [mvcircut2]]","details":[]}}]
+[2018-08-01 09:05:47] Update Subnetwork TriStateX1 In Tier Low Voltage Domain ElectricDistribution
+[2018-08-01 09:05:47] [Failed] Update Subnetwork TriStateX1 In Tier Low Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:47] Update Subnetwork TriStateX2 In Tier Low Voltage Domain ElectricDistribution
+[2018-08-01 09:05:48] [Failed] Update Subnetwork TriStateX2 In Tier Low Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:48] Update Subnetwork badneighborec1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:49] [Failed] Update Subnetwork badneighborec1 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139549077,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[badneighborec1], [badneighborec2]]","details":[]}}]
+[2018-08-01 09:05:49] Update Subnetwork badneighborec2 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:49] [Failed] Update Subnetwork badneighborec2 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139549843,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[badneighborec1], [badneighborec2]]","details":[]}}]
+[2018-08-01 09:05:49] Update Subnetwork badneighbored1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:50] [Failed] Update Subnetwork badneighbored1 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139550587,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[badneighbored1], [badneighbored2]]","details":[]}}]
+[2018-08-01 09:05:50] Update Subnetwork badneighbored2 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:51] [Failed] Update Subnetwork badneighbored2 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139551453,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[badneighbored1], [badneighbored2]]","details":[]}}]
+[2018-08-01 09:05:51] Update Subnetwork bypass In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:51] [Failed] Update Subnetwork bypass In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:51] Update Subnetwork ChangeMyAssetType001 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:52] [Failed] Update Subnetwork ChangeMyAssetType001 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:05:52] Update Subnetwork DisjointErrorRadial In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:53] [Failed] Update Subnetwork DisjointErrorRadial In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139553250,"success":false,"error":{"extendedCode":-2147208559,"message":"Disjoint subnetwork was discovered. [DisjointErrorRadial]","details":[]}}]
+[2018-08-01 09:05:53] Update Subnetwork goodneighboreA In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:55] [Failed] Update Subnetwork goodneighboreA In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139554280,"success":false,"error":{"extendedCode":-2147208495,"message":"One or more neighboring subnetworks are inconsistent. [Multiple subnetwork controllers with different subnetwork names found. [badneighborec1], [badneighborec2] / Multiple subnetwork controllers with different subnetwork names found. [badneighbored1], [badneighbored2]]","details":[]}}]
+[2018-08-01 09:05:55] Update Subnetwork goodneighboreB In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:58] [Failed] Update Subnetwork goodneighboreB In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139556810,"success":false,"error":{"extendedCode":-2147208495,"message":"One or more neighboring subnetworks are inconsistent. [Multiple subnetwork controllers with different subnetwork names found. [badneighborec1], [badneighborec2] / Multiple subnetwork controllers with different subnetwork names found. [badneighbored1], [badneighbored2]]","details":[]}}]
+[2018-08-01 09:05:58] Update Subnetwork INCONSISTENT1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:59] [Failed] Update Subnetwork INCONSISTENT1 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139559050,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[INCONSISTENT1], [INCONSISTENT2]]","details":[]}}]
+[2018-08-01 09:05:59] Update Subnetwork INCONSISTENT2 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:05:59] [Failed] Update Subnetwork INCONSISTENT2 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139559807,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[INCONSISTENT1], [INCONSISTENT2]]","details":[]}}]
+[2018-08-01 09:05:59] Update Subnetwork MultiFeedPropagationCircuitA In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:00] [Failed] Update Subnetwork MultiFeedPropagationCircuitA In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:00] Update Subnetwork MultiFeedPropagationCircuitB In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:00] [Failed] Update Subnetwork MultiFeedPropagationCircuitB In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:00] Update Subnetwork MV In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:01] [Failed] Update Subnetwork MV In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:01] Update Subnetwork MV Tristate In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:01] [Failed] Update Subnetwork MV Tristate In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:01] Update Subnetwork mvcircui4 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:01] [Failed] Update Subnetwork mvcircui4 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:01] Update Subnetwork mvcircuit1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:02] [Failed] Update Subnetwork mvcircuit1 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:02] Update Subnetwork mvcircuit3 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:02] [Failed] Update Subnetwork mvcircuit3 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:02] Update Subnetwork mvcircut2 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:03] [Failed] Update Subnetwork mvcircut2 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139563617,"success":false,"error":{"extendedCode":-2147208602,"message":"Invalid subnetwork connectivity, multiple sources from different tiers found. [[lvcircuit1], [mvcircut2]]","details":[]}}]
+[2018-08-01 09:06:03] Update Subnetwork mvupstreamtest1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:03] [Failed] Update Subnetwork mvupstreamtest1 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:03] Update Subnetwork newtest1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:04] [Failed] Update Subnetwork newtest1 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:04] Update Subnetwork PropogateExample1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:04] [Failed] Update Subnetwork PropogateExample1 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:04] Update Subnetwork redlandsMVA In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:05] [Failed] Update Subnetwork redlandsMVA In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:05] Update Subnetwork redlandsMVB In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:05] [Failed] Update Subnetwork redlandsMVB In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:05] Update Subnetwork redlandsMVC In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:06] [Failed] Update Subnetwork redlandsMVC In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:06] Update Subnetwork RickVille In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:06] [Failed] Update Subnetwork RickVille In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:06] Update Subnetwork shouldonlybemediumline In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:06] [Failed] Update Subnetwork shouldonlybemediumline In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:06] Update Subnetwork side1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:07] [Failed] Update Subnetwork side1 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:07] Update Subnetwork side2 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:07] [Failed] Update Subnetwork side2 In Tier Medium Voltage Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:07] Update Subnetwork sub1 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:09] [Failed] Update Subnetwork sub1 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139568650,"success":false,"error":{"extendedCode":-2147208495,"message":"One or more neighboring subnetworks are inconsistent. [Multiple subnetwork controllers with different subnetwork names found. [sub2], [sub3]]","details":[]}}]
+[2018-08-01 09:06:09] Update Subnetwork sub2 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:10] [Failed] Update Subnetwork sub2 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139570477,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[sub2], [sub3]]","details":[]}}]
+[2018-08-01 09:06:10] Update Subnetwork sub3 In Tier Medium Voltage Domain ElectricDistribution
+[2018-08-01 09:06:11] [Failed] Update Subnetwork sub3 In Tier Medium Voltage Domain ElectricDistribution[{"moment":1533139571440,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[sub2], [sub3]]","details":[]}}]
+[2018-08-01 09:06:11] Update Subnetwork DisjointedButCool In Tier Medium Voltage Disjointed Domain ElectricDistribution
+[2018-08-01 09:06:11] [Failed] Update Subnetwork DisjointedButCool In Tier Medium Voltage Disjointed Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:11] Update Subnetwork DisjointedwithInvalidDeviceSideA In Tier Medium Voltage Disjointed Domain ElectricDistribution
+[2018-08-01 09:06:12] [Failed] Update Subnetwork DisjointedwithInvalidDeviceSideA In Tier Medium Voltage Disjointed Domain ElectricDistribution[{"moment":1533139572857,"success":false,"error":{"extendedCode":-2147208557,"message":"Invalid device feature discoverd. [DisjointedwithInvalidDeviceSideA]","details":[]}}]
+[2018-08-01 09:06:12] Update Subnetwork DisjointedwithInvalidDeviceSideB In Tier Medium Voltage Disjointed Domain ElectricDistribution
+[2018-08-01 09:06:13] [Failed] Update Subnetwork DisjointedwithInvalidDeviceSideB In Tier Medium Voltage Disjointed Domain ElectricDistribution[{"moment":1533139573610,"success":false,"error":{"extendedCode":-2147208557,"message":"Invalid device feature discoverd. [DisjointedwithInvalidDeviceSideB]","details":[]}}]
+[2018-08-01 09:06:13] Update Subnetwork InvalidDevice In Tier Medium Voltage Disjointed Domain ElectricDistribution
+[2018-08-01 09:06:14] [Failed] Update Subnetwork InvalidDevice In Tier Medium Voltage Disjointed Domain ElectricDistribution[{"moment":1533139574373,"success":false,"error":{"extendedCode":-2147208557,"message":"Invalid device feature discoverd. [InvalidDevice]","details":[]}}]
+[2018-08-01 09:06:14] Update Subnetwork InvalidLine In Tier Medium Voltage Disjointed Domain ElectricDistribution
+[2018-08-01 09:06:15] [Failed] Update Subnetwork InvalidLine In Tier Medium Voltage Disjointed Domain ElectricDistribution[{"moment":1533139575160,"success":false,"error":{"extendedCode":-2147208590,"message":"An invalid line feature was discovered during update subnetwork. [InvalidLine]","details":[]}}]
+[2018-08-01 09:06:15] Update Subnetwork Redlandsmesh In Tier Redlands Mesh Domain ElectricDistribution
+[2018-08-01 09:06:15] [Failed] Update Subnetwork Redlandsmesh In Tier Redlands Mesh Domain ElectricDistribution[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:15] Update Subnetwork CA In Tier Cathodic Protection Domain Gas
+[2018-08-01 09:06:15] [Failed] Update Subnetwork CA In Tier Cathodic Protection Domain Gas[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:15] Update Subnetwork A In Tier Distribution System Domain Gas
+[2018-08-01 09:06:17] [Failed] Update Subnetwork A In Tier Distribution System Domain Gas[{"moment":1533139576950,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[A], [B]]","details":[]}}]
+[2018-08-01 09:06:17] Update Subnetwork B In Tier Distribution System Domain Gas
+[2018-08-01 09:06:18] [Failed] Update Subnetwork B In Tier Distribution System Domain Gas[{"moment":1533139577903,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[A], [B]]","details":[]}}]
+[2018-08-01 09:06:18] Update Subnetwork SystemInvalidParent In Tier Distribution System Domain Gas
+[2018-08-01 09:06:20] Update Subnetwork IsoInvalidParent In Tier Distribution Isolation Domain Gas
+[2018-08-01 09:06:21] [Failed] Update Subnetwork IsoInvalidParent In Tier Distribution Isolation Domain Gas[{"moment":1533139581410,"success":false,"error":{"extendedCode":-2147208556,"message":"Invalid parent subnetwork, the adjacent subnetwork is not within the same tier nor the next hierarchical tier. [IsoInvalidParent]","details":[]}}]
+[2018-08-01 09:06:21] Update Subnetwork SA In Tier Gathering System Domain Gas
+[2018-08-01 09:06:21] [Failed] Update Subnetwork SA In Tier Gathering System Domain Gas[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:21] Update Subnetwork PA In Tier Gathering Pressure Domain Gas
+[2018-08-01 09:06:22] [Failed] Update Subnetwork PA In Tier Gathering Pressure Domain Gas[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:22] Update Subnetwork PB In Tier Gathering Pressure Domain Gas
+[2018-08-01 09:06:22] [Failed] Update Subnetwork PB In Tier Gathering Pressure Domain Gas[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:22] Update Subnetwork IA In Tier Gathering Isolation Domain Gas
+[2018-08-01 09:06:23] [Failed] Update Subnetwork IA In Tier Gathering Isolation Domain Gas[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:23] Update Subnetwork IB In Tier Gathering Isolation Domain Gas
+[2018-08-01 09:06:23] [Failed] Update Subnetwork IB In Tier Gathering Isolation Domain Gas[{"success":false,"error":{"extendedCode":-2147208493,"message":"Invalid subnetwork name.","details":[]}}]
+[2018-08-01 09:06:23] Update Subnetwork inconsistentsibilingsystem1 In Tier Sibling System Domain Gas
+[2018-08-01 09:06:24] [Failed] Update Subnetwork inconsistentsibilingsystem1 In Tier Sibling System Domain Gas[{"moment":1533139584487,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[inconsistentsibilingsystem1], [inconsistentsibilingsystem2]]","details":[]}}]
+[2018-08-01 09:06:24] Update Subnetwork inconsistentsibilingsystem2 In Tier Sibling System Domain Gas
+[2018-08-01 09:06:25] [Failed] Update Subnetwork inconsistentsibilingsystem2 In Tier Sibling System Domain Gas[{"moment":1533139585607,"success":false,"error":{"extendedCode":-2147208561,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[inconsistentsibilingsystem1], [inconsistentsibilingsystem2]]","details":[]}}]
+[2018-08-01 09:06:25] Update Subnetwork inconsistentsibilingparent In Tier Sibling Isolation Domain Gas
+[2018-08-01 09:06:26] [Failed] Update Subnetwork inconsistentsibilingparent In Tier Sibling Isolation Domain Gas[{"moment":1533139586383,"success":false,"error":{"extendedCode":-2147208543,"message":"Invalid subnetwork connectivity, multiple subnetwork controllers with different subnetwork names found. [[inconsistentsibilingsystem1], [inconsistentsibilingsystem2]]","details":[]}}]
+[2018-08-01 09:06:26] Update Subnetwork trans In Tier Transmission Isolation Domain Gas
+[2018-08-01 09:06:27] [Failed] Update Subnetwork trans In Tier Transmission Isolation Domain Gas[{"moment":1533139587320,"success":false,"error":{"extendedCode":-2147208556,"message":"Invalid parent subnetwork, the adjacent subnetwork is not within the same tier nor the next hierarchical tier. [trans]","details":[]}}]
+[2018-08-01 09:06:27] Update Is Connected 
+[2018-08-01 09:06:29] [Done] Update Is Connected
+[2018-08-01 09:06:29] [Done] 

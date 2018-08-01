@@ -18,3 +18,13 @@ C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\Newtons
 C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\obj\Debug\Esri.UtilityNetwork.uncmd.csprojResolveAssemblyReference.cache
 C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\obj\Debug\uncmd.exe
 C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\obj\Debug\uncmd.pdb
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\uncmd.exe.config
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\obj\Debug\uncmd.exe
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\obj\Debug\uncmd.pdb
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\uncmd.exe
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\uncmd.pdb
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.uncmd\obj\Debug\Esri.UtilityNetwork.uncmd.csprojResolveAssemblyReference.cache

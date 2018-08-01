@@ -18,3 +18,10 @@ C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\bin\Debug\Newto
 C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\bin\Debug\Newtonsoft.Json.xml
 C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\obj\Debug\Esri.UtilityNetwork.RestSDK.dll
 C:\Users\husa8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\obj\Debug\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\bin\Debug\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\bin\Debug\Esri.UtilityNetwork.RestSDK.pdb
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\obj\Debug\Esri.UtilityNetwork.RestSDK.csprojResolveAssemblyReference.cache
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\obj\Debug\Esri.UtilityNetwork.RestSDK.dll
+C:\Users\huss8228\Source\Repos\uncmd\Esri.UtilityNetwork.RestSDK\obj\Debug\Esri.UtilityNetwork.RestSDK.pdb

@@ -548,9 +548,9 @@ namespace Esri.UtilityNetwork.RestSDK
             _subnetworks = new List<RestSDK.Subnetwork>();
             UNWorkspace unworkspace = UNWorkspace.getWorkspace();
             Dictionary<string, string> ps = new Dictionary<string, string>();
-            ps.Add("outFields", "SUBNETWORKNAME,domainnetworkname,tiername");
+            ps.Add("outFields", "SUBNETWORKNAME,domainnetworkname,tiername,isdirty");
             ps.Add("gdbVersion", CurrentVersion.Name);
-            ps.Add("where","1=1");
+            ps.Add("where","isdirty=1");
             ps.Add("returnDistinctValues", "true");   
             string response = unworkspace.Request(unworkspace.FeatureServiceURL + "/" + unworkspace.SubnetworksTable + "/query", ps);
             JObject jResponse = (JObject)Newtonsoft.Json.JsonConvert.DeserializeObject(response);
@@ -562,7 +562,7 @@ namespace Esri.UtilityNetwork.RestSDK
                 Subnetwork s = new Subnetwork();
                 s.DomainNetworkName = getVal(f["attributes"], "domainnetworkname");
                 s.TierName = getVal(f["attributes"], "tiername"); // f["attributes"]["tiername"].ToString();
-                s.Name = getVal(f["attributes"], "subnetworkname");  //f["attributes"]["subnetworkname"].ToString();
+                s.Name = getVal(f["attributes"], "subnetworkname");  //f["attributes"]["subnetworkname"].ToString();              
                 _subnetworks.Add(s);
             }
 
